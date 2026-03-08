@@ -1,14 +1,31 @@
-Local Eats & Hidden Gems – Restaurant Discovery Website
-Strayer University | 2025
+# Local Eats & Hidden Gems
 
-Built a responsive restaurant discovery website using HTML, CSS, JavaScript, and Bootstrap to highlight local dining locations and cuisine categories.
+A responsive website designed to showcase local restaurants and hidden dining spots in the Charlotte area.
 
-Implemented Bootstrap grid systems and UI components to create a scalable, mobile-friendly layout.
+## Project Overview
+This project was created to highlight local restaurants and provide users with an organized way to explore cuisine options in the community. The site features restaurant categories, featured locations, and a contact form for submissions.
 
-Developed JavaScript-driven interface behaviors including dynamic navigation resizing and responsive menu interactions.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Font Awesome
+- Google Fonts
 
-Designed structured data displays using tables, lists, and multimedia elements to improve content readability and organization.
+## Features
+- Responsive navigation menu
+- Restaurant portfolio section
+- Featured restaurant listings
+- Contact form with user input options
+- Multimedia elements including images and audio
 
-Created a user input form with validation and selection controls to collect restaurant information from visitors.
+## What I Learned
+- Building responsive layouts using Bootstrap
+- Structuring websites using semantic HTML
+- Implementing JavaScript for navigation behavior
+- Styling pages using CSS and modern UI practices
 
-Applied modern web design practices including responsive layout, accessibility considerations, and front-end performance optimization.
+## Author
+Gage Locacius  
+Strayer University
